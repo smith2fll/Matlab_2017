@@ -1,4 +1,5 @@
 function [Ctheta, Cx, Cy] = calc_trajectory(x0,y0,theta0,xf,yf,thetaf,vx0,vy0,omega0,vxf,vyf,omegaf,tfinal, d)
+%   Olle modified this file 03/10/2017
 %
 %   Function to calculate the autonomous robot trajectories 
 %   for FRC Team 2170 robot
